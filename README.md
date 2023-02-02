@@ -1,4 +1,4 @@
-Olá! Meu nome é Gabriel dos Santos Sousa, seja bem-vindo ao meu perfil github. Gosto muito de jogar e criar jogos, estudar economia, conhecer pessoas e, obviamente, programar! Minhas áreas de atuação atual se baseia em front-end e estudo bastante para conseguir me tornar full-stack.
+Olá! Meu nome é Gabriel dos Santos Sousa, seja bem-vindo ao meu perfil github. Gosto muito de jogar e criar jogos, estudar economia, conhecer pessoas e, obviamente, programar! Minha área de atuação atual se baseia em desenvolvimento web voltado para o front-end e estudo bastante para conseguir me tornar full-stack.
 
 # Habilidades
 
