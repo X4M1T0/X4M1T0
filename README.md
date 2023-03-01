@@ -15,7 +15,7 @@ Olá! Meu nome é Gabriel dos Santos Sousa, seja bem-vindo ao meu perfil github.
   
   <hr/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X4M1T0&layout=compact&hide_border=true&hide=css,html,scss,python&theme=dracula)](https://github.com/X4M1T0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x4m1t0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/> <br/>
