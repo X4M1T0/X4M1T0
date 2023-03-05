@@ -12,7 +12,7 @@ Olá! Meu nome é Gabriel dos Santos Sousa, seja bem-vindo ao meu perfil github.
   <img alt="Dart" style="width: 30px; height: 30px; margin: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
   <img alt="Flutter" style="width: 25px; height: 30px; margin: 50px;" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png"/>
   <img alt="Godot Language" style="width: 30px; height: 30px; margin: 50px;" src="https://godotengine.org/assets/og_image.png"/>
-  <img alt="Arduino" style="width: 30px; height: 30px; margin: 50px;" src="https://www.makerzine.com.br/wp-content/uploads/2021/02/1024px-ArduinoLogo_%C2%AE.svg_.png"/>
+  <img alt="Arduino" style="width: 35px; height: 30px; margin: 50px;" src="https://www.makerzine.com.br/wp-content/uploads/2021/02/1024px-ArduinoLogo_%C2%AE.svg_.png"/>
 </div>
   
   
