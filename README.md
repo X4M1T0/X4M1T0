@@ -22,7 +22,7 @@ Olá! Meu nome é Gabriel dos Santos Sousa, seja bem-vindo ao meu perfil github.
 
 <br/> <br/>
 
-<p style="font-size: 10px;">
+<!-- <p id="ASCII" style="font-size: 10px;">
 
 ██╗░░██╗░░██╗██╗███╗░░░███╗░░███╗░░████████╗░█████╗░
 ╚██╗██╔╝░██╔╝██║████╗░████║░████║░░╚══██╔══╝██╔══██╗
@@ -30,5 +30,7 @@ Olá! Meu nome é Gabriel dos Santos Sousa, seja bem-vindo ao meu perfil github.
 ░██╔██╗░███████║██║╚██╔╝██║╚═╝██║░░░░░██║░░░██║░░██║
 ██╔╝╚██╗╚════██║██║░╚═╝░██║███████╗░░░██║░░░╚█████╔╝
 ╚═╝░░╚═╝░░░░░╚═╝╚═╝░░░░░╚═╝╚══════╝░░░╚═╝░░░░╚════╝░
-</p>
+</p> -->
+
+
 
