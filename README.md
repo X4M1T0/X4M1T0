@@ -22,9 +22,7 @@ Olá! Meu nome é Gabriel dos Santos Sousa, seja bem-vindo ao meu perfil github.
 
 <br/> <br/>
 
-<hr/>
 <h1> CERTIFICADOS </h1>
-<hr/>
 
  <a href="https://www.freecodecamp.org/certification/X4M1T0/responsive-web-design" target=_blank>
     <img alt="Responsive Web Development" style="width: 50px; height: 30px; margin: 50px;" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg"/>
