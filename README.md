@@ -1,9 +1,8 @@
-<spam style="background-color: red; padding: 10px;">
-  Olá! Meu nome é Gabriel dos Santos Sousa, seja bem-vindo ao meu perfil github. Gosto muito de jogar e criar jogos, estudar economia, conhecer pessoas e, obviamente, programar! Minha área de atuação atual se baseia em desenvolvimento web voltado para o front-end e estudo bastante para conseguir me tornar um dev flutter! 
-</spam>
+<h1>Welcome!</h1>
+
+Olá! Meu nome é Gabriel dos Santos Sousa, seja bem-vindo ao meu perfil github. Gosto muito de :video_game: jogar, :notebook: estudar conteúdos diversos, :people_holding_hands: conhecer pessoas e, obviamente, :computer: programar! Minha área de atuação atual se baseia em desenvolvimento web e mobile com react e react native!
 
 # Habilidades
-
 
 <!-- LINGUAGENS DE ATUAÇÃO --> 
 
