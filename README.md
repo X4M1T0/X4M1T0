@@ -15,19 +15,17 @@ Olá! Meu nome é Gabriel dos Santos Sousa, seja bem-vindo ao meu perfil github.
   <img alt="MySQL" style="width: 50px; height: 30px; margin: 50px;" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"/>
 <!--   <img alt="Godot Language" style="width: 30px; height: 30px; margin: 50px;" src="https://godotengine.org/assets/og_image.png"/> -->
 </div>
-  
-  
-  <hr/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x4m1t0&layout=compact&theme=tokyonight&custom_title=Linguagens%20mais%20usadas)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/> <br/>
 
 <h1> CERTIFICADOS </h1>
 
  <a href="https://www.freecodecamp.org/certification/X4M1T0/responsive-web-design" target=_blank>
     <img alt="Responsive Web Development" style="width: 50px; height: 30px; margin: 50px;" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg"/>
 </a>
+  
+  <hr/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x4m1t0&layout=compact&theme=tokyonight&custom_title=Linguagens%20mais%20usadas)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- <p id="ASCII" style="font-size: 10px;">
 
