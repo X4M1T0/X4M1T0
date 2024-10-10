@@ -13,6 +13,7 @@ Olá! Meu nome é Gabriel dos Santos Sousa, seja bem-vindo ao meu perfil github.
   <img alt="Python" style="width: 30px; height: 30px; margin: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
   <img alt="Dart" style="width: 30px; height: 30px; margin: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
   <img alt="MySQL" style="width: 50px; height: 30px; margin: 50px;" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"/>
+  <img alt="PostgreSQL" style="width: 50px; height: 30px; margin: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"/>
 <!--   <img alt="Godot Language" style="width: 30px; height: 30px; margin: 50px;" src="https://godotengine.org/assets/og_image.png"/> -->
 </div>
 
